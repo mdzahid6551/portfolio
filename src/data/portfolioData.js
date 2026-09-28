@@ -6,7 +6,7 @@ export const heroData = {
   contactEmail: "zmd299807@gmail.com",
   contactPhone: "8340414350",
   githubUrl: "https://github.com/mdzahid6551",
-  linkedinUrl: "https://linkedin.com/in/md-zahid",
+  linkedinUrl: "https://linkedin.com/in/mdzahid6551",
   location: "Lucknow, India",
   stats: [
     { label: "Projects Completed", value: 12, suffix: "+" },
